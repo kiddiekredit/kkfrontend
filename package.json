@@ -36,7 +36,7 @@
     "mobx-react-router": "^4.0.5",
     "react": "16.9.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-37.0.0.tar.gz",
-    "react-native-webview": "8.1.1",
+    "react-native-webview": "11.0.0",
     "react-router-native": "^4.3.0",
     "rrule": "^2.5.6"
   }
